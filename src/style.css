@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+.wrap{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
